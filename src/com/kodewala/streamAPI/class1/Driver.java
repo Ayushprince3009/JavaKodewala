@@ -45,14 +45,6 @@ public class Driver {
 				.collect(Collectors.toList());
 		
 		System.out.println(output2);
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 }
